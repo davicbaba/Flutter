@@ -63,6 +63,18 @@ class _MyHomePageState extends State<MyHomePage> {
               'Campos Montes Christian Manuel 25-5230-2017',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Text(
+              'Guardado Caballero Jose David  25-0247-2018',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
+            Text(
+              'Rodriguez Ruballo Mario Enrique  17-1947-2019',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
+            Text(
+              'Méndez Vásquez Daniel Isaac 25-2510-2018',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
           ],
         ),
       ),
